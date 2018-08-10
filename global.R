@@ -17,7 +17,7 @@ shp@data$level <- as.numeric(shp@data$level)
 shp = subset(shp, shp@data$level <= 2)
 shp@data$admin <- as.character(shp@data$loc_name)
 shp2 <- shp
-collab_raw <- fread('ayers/All Collabs_salesforce.csv')
+collab_raw <- fread('layers/All Collabs_salesforce.csv')
 
 #collabs = read.csv('C:/users/Scottg16/repos/RshinyDB/layers/Collaborators in Salesforce_Policy Engagement.csv')
 

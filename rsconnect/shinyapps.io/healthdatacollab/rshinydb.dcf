@@ -1,0 +1,10 @@
+name: rshinydb
+title:
+username:
+account: healthdatacollab
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 398403
+bundleId: 1529047
+url: https://healthdatacollab.shinyapps.io/rshinydb/
+when: 1533922421.90256

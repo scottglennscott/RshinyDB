@@ -18,7 +18,7 @@ sidebarLayout(
              draggable = FALSE, top = 60, left = "auto",
              right = 20, bottom = "auto",
               height = "auto",
-             h2("Major and sub categories"),
+             h2("Select Options"),
              selectInput("countries", "Collaborator Location",
                          choices = c("-", countries),
                          selected = "-"),
@@ -27,7 +27,7 @@ sidebarLayout(
                          choices = c("-", causes.cat),
                          selected = "-"),
              # Selectize input for category
-             selectInput("risks", "Select risk of expertise",
+             selectInput("risks", "Select risk of expertise (Under construction)",
                          choices = c("-", rei.cat),
                          selected = "-"),
              selectInput("count.exp", "Countries of expertise", 
@@ -35,20 +35,20 @@ sidebarLayout(
                            selected = "-"),
              checkboxInput("healthfinance", "Expertise in health financing",
                            value = FALSE),
-             checkboxInput("SDG", "Expertise in SDG monitoring and evaluations",
+             checkboxInput("SDG", "Expertise in SDG monitoring and evaluations (Under construction)",
                            value = FALSE),
-             checkboxInput("demo", "Demography expert",
+             checkboxInput("demo", "Demography expert (Under construction)",
                            value = FALSE),
-             checkboxInput("geo", "Expertise in geospatial analysis",
+             checkboxInput("geo", "Expertise in geospatial analysis (under construction)",
                            value = FALSE),
-             checkboxInput("Policy", "Policy engagement interest",
+             checkboxInput("Policy", "Policy engagement interest (Under construction)",
                            value = FALSE)
              
              # Add output for country & category that has been selected
 ),
 
 mainPanel(
-navbarPage("GBD Collaborators", id="nav",
+navbarPage("GBD Collaborators. Do Not Share", id="nav",
            tabPanel("Interactive map",
                     div(class="outer",
                         tags$head(
@@ -87,6 +87,7 @@ navbarPage("GBD Collaborators", id="nav",
     
                     )
            ),
+           
 
            conditionalPanel("false", icon("crosshair"))
 )

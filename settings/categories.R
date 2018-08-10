@@ -4,9 +4,9 @@
 library(data.table)
 major.cats <- as.factor(c("Cat1", "Cat2", "Cat3",
                 "Cat4", "Cat5"))
-causes = fread("C:/users/Scottg16/repos/collab_db/data/cause_gbd5.csv")
+causes = fread("data/cause_gbd5.csv")
 causes.cat <- causes$cause_name
-reis = fread("C:/users/Scottg16/repos/collab_db/data/rei_gbd5.csv")
+reis = fread("data/rei_gbd5.csv")
 rei.cat <- reis$rei_name
 
 # MINOR

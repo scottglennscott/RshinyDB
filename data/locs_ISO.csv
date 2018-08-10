@@ -1,0 +1,406 @@
+location_id,location_name,location_ascii_name,ihme_loc_id,local_id
+1,Global,Global,G,G
+44635,High SDI,High SDI,,
+44634,High-middle SDI,High-middle SDI,,
+44639,Middle SDI,Middle SDI,,
+44636,Low-middle SDI,Low-middle SDI,,
+44637,Low SDI,Low SDI,,
+64,High-income,High-income,S1,S1
+100,High-income North America,High-income North America,R16,R16
+101,Canada,Canada,CAN,CAN
+349,Greenland,Greenland,GRL,GRL
+102,United States,United States,USA,USA
+523,Alabama,Alabama,USA_523,US-AL
+524,Alaska,Alaska,USA_524,US-AK
+525,Arizona,Arizona,USA_525,US-AZ
+526,Arkansas,Arkansas,USA_526,US-AR
+527,California,California,USA_527,US-CA
+528,Colorado,Colorado,USA_528,US-CO
+529,Connecticut,Connecticut,USA_529,US-CT
+530,Delaware,Delaware,USA_530,US-DE
+531,District of Columbia,District of Columbia,USA_531,US-DC
+532,Florida,Florida,USA_532,US-FL
+533,Georgia,Georgia,USA_533,US-GA
+534,Hawaii,Hawaii,USA_534,US-HI
+535,Idaho,Idaho,USA_535,US-ID
+536,Illinois,Illinois,USA_536,US-IL
+537,Indiana,Indiana,USA_537,US-IN
+538,Iowa,Iowa,USA_538,US-IA
+539,Kansas,Kansas,USA_539,US-KS
+540,Kentucky,Kentucky,USA_540,US-KY
+541,Louisiana,Louisiana,USA_541,US-LA
+542,Maine,Maine,USA_542,US-ME
+543,Maryland,Maryland,USA_543,US-MD
+544,Massachusetts,Massachusetts,USA_544,US-MA
+545,Michigan,Michigan,USA_545,US-MI
+546,Minnesota,Minnesota,USA_546,US-MN
+547,Mississippi,Mississippi,USA_547,US-MS
+548,Missouri,Missouri,USA_548,US-MO
+549,Montana,Montana,USA_549,US-MT
+550,Nebraska,Nebraska,USA_550,US-NE
+551,Nevada,Nevada,USA_551,US-NV
+552,New Hampshire,New Hampshire,USA_552,US-NH
+553,New Jersey,New Jersey,USA_553,US-NJ
+554,New Mexico,New Mexico,USA_554,US-NM
+555,New York,New York,USA_555,US-NY
+556,North Carolina,North Carolina,USA_556,US-NC
+557,North Dakota,North Dakota,USA_557,US-ND
+558,Ohio,Ohio,USA_558,US-OH
+559,Oklahoma,Oklahoma,USA_559,US-OK
+560,Oregon,Oregon,USA_560,US-OR
+561,Pennsylvania,Pennsylvania,USA_561,US-PA
+562,Rhode Island,Rhode Island,USA_562,US-RI
+563,South Carolina,South Carolina,USA_563,US-SC
+564,South Dakota,South Dakota,USA_564,US-SD
+565,Tennessee,Tennessee,USA_565,US-TN
+566,Texas,Texas,USA_566,US-TX
+567,Utah,Utah,USA_567,US-UT
+568,Vermont,Vermont,USA_568,US-VT
+569,Virginia,Virginia,USA_569,US-VA
+570,Washington,Washington,USA_570,US-WA
+571,West Virginia,West Virginia,USA_571,US-WV
+572,Wisconsin,Wisconsin,USA_572,US-WI
+573,Wyoming,Wyoming,USA_573,US-WY
+70,Australasia,Australasia,R6,R6
+71,Australia,Australia,AUS,AUS
+72,New Zealand,New Zealand,NZL,NZL
+65,High-income Asia Pacific,High-income Asia Pacific,R1,R1
+66,Brunei,Brunei,BRN,BRN
+67,Japan,Japan,JPN,JPN
+35446,Aichi,Aichi,JPN_35446,JP-23
+35428,Akita,Akita,JPN_35428,JP-05
+35425,Aomori,Aomori,JPN_35425,JP-02
+35435,Chiba,Chiba,JPN_35435,JP-12
+35461,Ehime,Ehime,JPN_35461,JP-38
+35441,Fukui,Fukui,JPN_35441,JP-18
+35463,Fukuoka,Fukuoka,JPN_35463,JP-40
+35430,Fukushima,Fukushima,JPN_35430,JP-07
+35444,Gifu,Gifu,JPN_35444,JP-21
+35433,Gunma,Gunma,JPN_35433,JP-10
+35457,Hiroshima,Hiroshima,JPN_35457,JP-34
+35424,Hokkaidō,Hokkaido,JPN_35424,JP-01
+35451,Hyōgo,Hyogo,JPN_35451,JP-28
+35431,Ibaraki,Ibaraki,JPN_35431,JP-08
+35440,Ishikawa,Ishikawa,JPN_35440,JP-17
+35426,Iwate,Iwate,JPN_35426,JP-03
+35460,Kagawa,Kagawa,JPN_35460,JP-37
+35469,Kagoshima,Kagoshima,JPN_35469,JP-46
+35437,Kanagawa,Kanagawa,JPN_35437,JP-14
+35462,Kōchi,Kochi,JPN_35462,JP-39
+35466,Kumamoto,Kumamoto,JPN_35466,JP-43
+35449,Kyōto,Kyoto,JPN_35449,JP-26
+35447,Mie,Mie,JPN_35447,JP-24
+35427,Miyagi,Miyagi,JPN_35427,JP-04
+35468,Miyazaki,Miyazaki,JPN_35468,JP-45
+35443,Nagano,Nagano,JPN_35443,JP-20
+35465,Nagasaki,Nagasaki,JPN_35465,JP-42
+35452,Nara,Nara,JPN_35452,JP-29
+35438,Niigata,Niigata,JPN_35438,JP-15
+35467,Ōita,Oita,JPN_35467,JP-44
+35456,Okayama,Okayama,JPN_35456,JP-33
+35470,Okinawa,Okinawa,JPN_35470,JP-47
+35450,Ōsaka,Osaka,JPN_35450,JP-27
+35464,Saga,Saga,JPN_35464,JP-41
+35434,Saitama,Saitama,JPN_35434,JP-11
+35448,Shiga,Shiga,JPN_35448,JP-25
+35455,Shimane,Shimane,JPN_35455,JP-32
+35445,Shizuoka,Shizuoka,JPN_35445,JP-22
+35432,Tochigi,Tochigi,JPN_35432,JP-09
+35459,Tokushima,Tokushima,JPN_35459,JP-36
+35436,Tōkyō,Tokyo,JPN_35436,JP-13
+35454,Tottori,Tottori,JPN_35454,JP-31
+35439,Toyama,Toyama,JPN_35439,JP-16
+35453,Wakayama,Wakayama,JPN_35453,JP-30
+35429,Yamagata,Yamagata,JPN_35429,JP-06
+35458,Yamaguchi,Yamaguchi,JPN_35458,JP-35
+35442,Yamanashi,Yamanashi,JPN_35442,JP-19
+69,Singapore,Singapore,SGP,SGP
+68,South Korea,South Korea,KOR,KOR
+73,Western Europe,Western Europe,R10,R10
+74,Andorra,Andorra,AND,AND
+75,Austria,Austria,AUT,AUT
+76,Belgium,Belgium,BEL,BEL
+77,Cyprus,Cyprus,CYP,CYP
+78,Denmark,Denmark,DNK,DNK
+79,Finland,Finland,FIN,FIN
+80,France,France,FRA,FRA
+81,Germany,Germany,DEU,DEU
+82,Greece,Greece,GRC,GRC
+83,Iceland,Iceland,ISL,ISL
+84,Ireland,Ireland,IRL,IRL
+85,Israel,Israel,ISR,ISR
+86,Italy,Italy,ITA,ITA
+87,Luxembourg,Luxembourg,LUX,LUX
+88,Malta,Malta,MLT,MLT
+89,Netherlands,Netherlands,NLD,NLD
+90,Norway,Norway,NOR,NOR
+91,Portugal,Portugal,PRT,PRT
+92,Spain,Spain,ESP,ESP
+93,Sweden,Sweden,SWE,SWE
+4944,Stockholm,Stockholm,SWE_4944,SE11
+4940,Sweden except Stockholm,Sweden except Stockholm,SWE_4940,
+94,Switzerland,Switzerland,CHE,CHE
+95,United Kingdom,United Kingdom,GBR,GBR
+4749,England,England,GBR_4749,ENG
+4621,East Midlands,East Midlands,GBR_4621,UKF
+4623,East of England,East of England,GBR_4623,UKH
+4624,Greater London,Greater London,GBR_4624,UKI
+4618,North East England,North East England,GBR_4618,UKC
+4619,North West England,North West England,GBR_4619,UKD
+4625,South East England,South East England,GBR_4625,UKJ
+4626,South West England,South West England,GBR_4626,UKK
+4622,West Midlands,West Midlands,GBR_4622,UKG
+4620,Yorkshire and the Humber,Yorkshire and the Humber,GBR_4620,UKE
+433,Northern Ireland,Northern Ireland,GBR_433,NIR
+434,Scotland,Scotland,GBR_434,SCT
+4636,Wales,Wales,GBR_4636,WLS
+96,Southern Latin America,Southern Latin America,R13,R13
+97,Argentina,Argentina,ARG,ARG
+98,Chile,Chile,CHL,CHL
+99,Uruguay,Uruguay,URY,URY
+31,"Central Europe, Eastern Europe, and Central Asia","Central Europe, Eastern Europe, and Central Asia",S2,S2
+56,Eastern Europe,Eastern Europe,R9,R9
+57,Belarus,Belarus,BLR,BLR
+58,Estonia,Estonia,EST,EST
+59,Latvia,Latvia,LVA,LVA
+60,Lithuania,Lithuania,LTU,LTU
+61,Moldova,Moldova,MDA,MDA
+62,Russian Federation,Russian Federation,RUS,RUS
+63,Ukraine,Ukraine,UKR,UKR
+42,Central Europe,Central Europe,R8,R8
+43,Albania,Albania,ALB,ALB
+44,Bosnia and Herzegovina,Bosnia and Herzegovina,BIH,BIH
+45,Bulgaria,Bulgaria,BGR,BGR
+46,Croatia,Croatia,HRV,HRV
+47,Czech Republic,Czech Republic,CZE,CZE
+48,Hungary,Hungary,HUN,HUN
+49,Macedonia,Macedonia,MKD,MKD
+50,Montenegro,Montenegro,MNE,MNE
+51,Poland,Poland,POL,POL
+52,Romania,Romania,ROU,ROU
+53,Serbia,Serbia,SRB,SRB
+54,Slovakia,Slovakia,SVK,SVK
+55,Slovenia,Slovenia,SVN,SVN
+32,Central Asia,Central Asia,R2,R2
+33,Armenia,Armenia,ARM,ARM
+34,Azerbaijan,Azerbaijan,AZE,AZE
+35,Georgia,Georgia,GEO,GEO
+36,Kazakhstan,Kazakhstan,KAZ,KAZ
+37,Kyrgyzstan,Kyrgyzstan,KGZ,KGZ
+38,Mongolia,Mongolia,MNG,MNG
+39,Tajikistan,Tajikistan,TJK,TJK
+40,Turkmenistan,Turkmenistan,TKM,TKM
+41,Uzbekistan,Uzbekistan,UZB,UZB
+103,Latin America and Caribbean,Latin America and Caribbean,S7,S7
+124,Central Latin America,Central Latin America,R12,R12
+125,Colombia,Colombia,COL,COL
+126,Costa Rica,Costa Rica,CRI,CRI
+127,El Salvador,El Salvador,SLV,SLV
+128,Guatemala,Guatemala,GTM,GTM
+129,Honduras,Honduras,HND,HND
+130,Mexico,Mexico,MEX,MEX
+4643,Aguascalientes,Aguascalientes,MEX_4643,MX-AGU
+4644,Baja California,Baja California,MEX_4644,MX-BCN
+4645,Baja California Sur,Baja California Sur,MEX_4645,MX-BCS
+4646,Campeche,Campeche,MEX_4646,MX-CAM
+4649,Chiapas,Chiapas,MEX_4649,MX-CHP
+4650,Chihuahua,Chihuahua,MEX_4650,MX-CHH
+4647,Coahuila,Coahuila,MEX_4647,MX-COA
+4648,Colima,Colima,MEX_4648,MX-COL
+4651,Distrito Federal,Distrito Federal,MEX_4651,MX-DIF
+4652,Durango,Durango,MEX_4652,MX-DUR
+4653,Guanajuato,Guanajuato,MEX_4653,MX-GUA
+4654,Guerrero,Guerrero,MEX_4654,MX-GRO
+4655,Hidalgo,Hidalgo,MEX_4655,MX-HID
+4656,Jalisco,Jalisco,MEX_4656,MX-JAL
+4657,México,Mexico,MEX_4657,MX-MEX
+4658,Michoacán de Ocampo,Michoacan de Ocampo,MEX_4658,MX-MIC
+4659,Morelos,Morelos,MEX_4659,MX-MOR
+4660,Nayarit,Nayarit,MEX_4660,MX-NAY
+4661,Nuevo León,Nuevo Leon,MEX_4661,MX-NLE
+4662,Oaxaca,Oaxaca,MEX_4662,MX-OAX
+4663,Puebla,Puebla,MEX_4663,MX-PUE
+4664,Querétaro,Queretaro,MEX_4664,MX-QUE
+4665,Quintana Roo,Quintana Roo,MEX_4665,MX-ROO
+4666,San Luis Potosí,San Luis Potosi,MEX_4666,MX-SLP
+4667,Sinaloa,Sinaloa,MEX_4667,MX-SIN
+4668,Sonora,Sonora,MEX_4668,MX-SON
+4669,Tabasco,Tabasco,MEX_4669,MX-TAB
+4670,Tamaulipas,Tamaulipas,MEX_4670,MX-TAM
+4671,Tlaxcala,Tlaxcala,MEX_4671,MX-TLA
+4672,Veracruz de Ignacio de la Llave,Veracruz de Ignacio de la Llave,MEX_4672,MX-VER
+4673,Yucatán,Yucatan,MEX_4673,MX-YUC
+4674,Zacatecas,Zacatecas,MEX_4674,MX-ZAC
+131,Nicaragua,Nicaragua,NIC,NIC
+132,Panama,Panama,PAN,PAN
+133,Venezuela,Venezuela,VEN,VEN
+120,Andean Latin America,Andean Latin America,R11,R11
+121,Bolivia,Bolivia,BOL,BOL
+122,Ecuador,Ecuador,ECU,ECU
+123,Peru,Peru,PER,PER
+104,Caribbean,Caribbean,R7,R7
+105,Antigua and Barbuda,Antigua and Barbuda,ATG,ATG
+106,The Bahamas,The Bahamas,BHS,BHS
+107,Barbados,Barbados,BRB,BRB
+108,Belize,Belize,BLZ,BLZ
+305,Bermuda,Bermuda,BMU,BMU
+109,Cuba,Cuba,CUB,CUB
+110,Dominica,Dominica,DMA,DMA
+111,Dominican Republic,Dominican Republic,DOM,DOM
+112,Grenada,Grenada,GRD,GRD
+113,Guyana,Guyana,GUY,GUY
+114,Haiti,Haiti,HTI,HTI
+115,Jamaica,Jamaica,JAM,JAM
+385,Puerto Rico,Puerto Rico,PRI,PRI
+116,Saint Lucia,Saint Lucia,LCA,LCA
+117,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,VCT,VCT
+118,Suriname,Suriname,SUR,SUR
+119,Trinidad and Tobago,Trinidad and Tobago,TTO,TTO
+422,"Virgin Islands, U.S.","Virgin Islands, U.S.",VIR,VIR
+134,Tropical Latin America,Tropical Latin America,R14,R14
+135,Brazil,Brazil,BRA,BRA
+136,Paraguay,Paraguay,PRY,PRY
+4,"Southeast Asia, East Asia, and Oceania","Southeast Asia, East Asia, and Oceania",S6,S6
+5,East Asia,East Asia,R3,R3
+6,China,China,CHN,CHN
+7,North Korea,North Korea,PRK,PRK
+8,Taiwan,Taiwan,TWN,TWN
+9,Southeast Asia,Southeast Asia,R5,R5
+10,Cambodia,Cambodia,KHM,KHM
+11,Indonesia,Indonesia,IDN,IDN
+12,Laos,Laos,LAO,LAO
+13,Malaysia,Malaysia,MYS,MYS
+14,Maldives,Maldives,MDV,MDV
+183,Mauritius,Mauritius,MUS,MUS
+15,Myanmar,Myanmar,MMR,MMR
+16,Philippines,Philippines,PHL,PHL
+17,Sri Lanka,Sri Lanka,LKA,LKA
+186,Seychelles,Seychelles,SYC,SYC
+18,Thailand,Thailand,THA,THA
+19,Timor-Leste,Timor-Leste,TLS,TLS
+20,Vietnam,Vietnam,VNM,VNM
+21,Oceania,Oceania,R17,R17
+298,American Samoa,American Samoa,ASM,ASM
+25,Federated States of Micronesia,Federated States of Micronesia,FSM,FSM
+22,Fiji,Fiji,FJI,FJI
+351,Guam,Guam,GUM,GUM
+23,Kiribati,Kiribati,KIR,KIR
+24,Marshall Islands,Marshall Islands,MHL,MHL
+376,Northern Mariana Islands,Northern Mariana Islands,MNP,MNP
+26,Papua New Guinea,Papua New Guinea,PNG,PNG
+27,Samoa,Samoa,WSM,WSM
+28,Solomon Islands,Solomon Islands,SLB,SLB
+29,Tonga,Tonga,TON,TON
+30,Vanuatu,Vanuatu,VUT,VUT
+137,North Africa and Middle East,North Africa and Middle East,S4,S4
+138,North Africa and Middle East,North Africa and Middle East,R15,R15
+160,Afghanistan,Afghanistan,AFG,AFG
+139,Algeria,Algeria,DZA,DZA
+140,Bahrain,Bahrain,BHR,BHR
+141,Egypt,Egypt,EGY,EGY
+142,Iran,Iran,IRN,IRN
+143,Iraq,Iraq,IRQ,IRQ
+144,Jordan,Jordan,JOR,JOR
+145,Kuwait,Kuwait,KWT,KWT
+146,Lebanon,Lebanon,LBN,LBN
+147,Libya,Libya,LBY,LBY
+148,Morocco,Morocco,MAR,MAR
+149,Palestine,Palestine,PSE,PSE
+150,Oman,Oman,OMN,OMN
+151,Qatar,Qatar,QAT,QAT
+152,Saudi Arabia,Saudi Arabia,SAU,SAU
+522,Sudan,Sudan,SDN,SDN
+153,Syria,Syria,SYR,SYR
+154,Tunisia,Tunisia,TUN,TUN
+155,Turkey,Turkey,TUR,TUR
+156,United Arab Emirates,United Arab Emirates,ARE,ARE
+157,Yemen,Yemen,YEM,YEM
+158,South Asia,South Asia,S5,S5
+159,South Asia,South Asia,R4,R4
+161,Bangladesh,Bangladesh,BGD,BGD
+162,Bhutan,Bhutan,BTN,BTN
+163,India,India,IND,IND
+4841,Andhra Pradesh,Andhra Pradesh,IND_4841,IN-AP
+4842,Arunachal Pradesh,Arunachal Pradesh,IND_4842,IN-AR
+4843,Assam,Assam,IND_4843,IN-AS
+4844,Bihar,Bihar,IND_4844,IN-BR
+4846,Chhattisgarh,Chhattisgarh,IND_4846,IN-CT
+4849,Delhi,Delhi,IND_4849,IN-DL
+4850,Goa,Goa,IND_4850,IN-GA
+4851,Gujarat,Gujarat,IND_4851,IN-GJ
+4852,Haryana,Haryana,IND_4852,IN-HR
+4853,Himachal Pradesh,Himachal Pradesh,IND_4853,IN-HP
+4854,Jammu and Kashmir,Jammu and Kashmir,IND_4854,IN-JK
+4855,Jharkhand,Jharkhand,IND_4855,IN-JH
+4856,Karnataka,Karnataka,IND_4856,IN-KA
+4857,Kerala,Kerala,IND_4857,IN-KL
+4859,Madhya Pradesh,Madhya Pradesh,IND_4859,IN-MP
+4860,Maharashtra,Maharashtra,IND_4860,IN-MH
+4861,Manipur,Manipur,IND_4861,IN-MN
+4862,Meghalaya,Meghalaya,IND_4862,IN-ML
+4863,Mizoram,Mizoram,IND_4863,IN-MZ
+4864,Nagaland,Nagaland,IND_4864,IN-NL
+4865,Odisha,Odisha,IND_4865,IN-OR
+4867,Punjab,Punjab,IND_4867,IN-PB
+4868,Rajasthan,Rajasthan,IND_4868,IN-RJ
+4869,Sikkim,Sikkim,IND_4869,IN-SK
+4870,Tamil Nadu,Tamil Nadu,IND_4870,IN-TN
+4871,Telangana,Telangana,IND_4871,IN-TG
+4872,Tripura,Tripura,IND_4872,IN-TR
+4873,Uttar Pradesh,Uttar Pradesh,IND_4873,IN-UP
+4874,Uttarakhand,Uttarakhand,IND_4874,IN-UT
+4875,West Bengal,West Bengal,IND_4875,IN-WB
+44538,Union Territories other than Delhi,Union Territories other than Delhi,IND_44538,
+164,Nepal,Nepal,NPL,NPL
+165,Pakistan,Pakistan,PAK,PAK
+166,Sub-Saharan Africa,Sub-Saharan Africa,S3,S3
+192,Southern Sub-Saharan Africa,Southern Sub-Saharan Africa,R20,R20
+193,Botswana,Botswana,BWA,BWA
+194,Lesotho,Lesotho,LSO,LSO
+195,Namibia,Namibia,NAM,NAM
+196,South Africa,South Africa,ZAF,ZAF
+197,Swaziland,Swaziland,SWZ,SWZ
+198,Zimbabwe,Zimbabwe,ZWE,ZWE
+199,Western Sub-Saharan Africa,Western Sub-Saharan Africa,R21,R21
+200,Benin,Benin,BEN,BEN
+201,Burkina Faso,Burkina Faso,BFA,BFA
+202,Cameroon,Cameroon,CMR,CMR
+203,Cape Verde,Cape Verde,CPV,CPV
+204,Chad,Chad,TCD,TCD
+205,Cote d'Ivoire,Cote d'Ivoire,CIV,CIV
+206,The Gambia,The Gambia,GMB,GMB
+207,Ghana,Ghana,GHA,GHA
+208,Guinea,Guinea,GIN,GIN
+209,Guinea-Bissau,Guinea-Bissau,GNB,GNB
+210,Liberia,Liberia,LBR,LBR
+211,Mali,Mali,MLI,MLI
+212,Mauritania,Mauritania,MRT,MRT
+213,Niger,Niger,NER,NER
+214,Nigeria,Nigeria,NGA,NGA
+215,Sao Tome and Principe,Sao Tome and Principe,STP,STP
+216,Senegal,Senegal,SEN,SEN
+217,Sierra Leone,Sierra Leone,SLE,SLE
+218,Togo,Togo,TGO,TGO
+174,Eastern Sub-Saharan Africa,Eastern Sub-Saharan Africa,R19,R19
+175,Burundi,Burundi,BDI,BDI
+176,Comoros,Comoros,COM,COM
+177,Djibouti,Djibouti,DJI,DJI
+178,Eritrea,Eritrea,ERI,ERI
+179,Ethiopia,Ethiopia,ETH,ETH
+180,Kenya,Kenya,KEN,KEN
+181,Madagascar,Madagascar,MDG,MDG
+182,Malawi,Malawi,MWI,MWI
+184,Mozambique,Mozambique,MOZ,MOZ
+185,Rwanda,Rwanda,RWA,RWA
+187,Somalia,Somalia,SOM,SOM
+435,South Sudan,South Sudan,SSD,SSD
+189,Tanzania,Tanzania,TZA,TZA
+190,Uganda,Uganda,UGA,UGA
+191,Zambia,Zambia,ZMB,ZMB
+167,Central Sub-Saharan Africa,Central Sub-Saharan Africa,R18,R18
+168,Angola,Angola,AGO,AGO
+169,Central African Republic,Central African Republic,CAF,CAF
+170,Congo,Congo,COG,COG
+171,Democratic Republic of the Congo,Democratic Republic of the Congo,COD,COD
+172,Equatorial Guinea,Equatorial Guinea,GNQ,GNQ
+173,Gabon,Gabon,GAB,GAB
