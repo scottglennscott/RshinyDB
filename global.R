@@ -5,10 +5,6 @@ library(ggplot2)
 library(rgdal)
 library(leaflet)
 # Create color palette
-#cus.pal <- RColorBrewer::brewer.pal(5, "Greens")
-
-# Color palette for leaflet map based on cus.pal object
-#pal.major <- leaflet::colorFactor(cus.pal, domain = major.cats)
 
 # Read geojson with world country data
 
@@ -17,17 +13,20 @@ shp@data$level <- as.numeric(shp@data$level)
 shp = subset(shp, shp@data$level <= 2)
 shp@data$admin <- as.character(shp@data$loc_name)
 shp2 <- shp
+# read in collaborator data
 collab_raw <- fread('layers/All Collabs_salesforce.csv')
 
 #collabs = read.csv('C:/users/Scottg16/repos/RshinyDB/layers/Collaborators in Salesforce_Policy Engagement.csv')
 
 collabs_raw  = as.data.table(collab_raw)
 # Values for selectize input
-countries <- shp@data$admin
-countries = as.data.table(countries)
+shp@data = as.data.table(shp@data)
+
+countries <- shp@data$loc_name
+countries = na.omit(as.data.table(countries))
 ISO3 <- shp@data$ihme_lc_id
 mock.data.all <- data.table(countries = countries, ISO3.codes = ISO3)
-
+#mock.data.all <- shp@data[,.(ihme_lc_id, loc_name)]
 
 epsg4088 <- leafletCRS(
   crsClass = "L.CRS.Simple",
